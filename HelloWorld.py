@@ -1,2 +1,2 @@
-# My first Phyton Program
+# My first Python Program
 print("Hello World!")
